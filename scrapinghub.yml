@@ -1,0 +1,3 @@
+projects:
+  default: site_app_scraper
+requirements_file: requirements.txt
